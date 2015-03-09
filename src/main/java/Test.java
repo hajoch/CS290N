@@ -9,12 +9,8 @@ import com.mashape.unirest.http.exceptions.UnirestException;
 public class Test {
 
     public static void main(String[] args) throws UnirestException {
-        HttpResponse<JsonNode> jsonResponse = Unirest.post("http://httpbin.org/post")
-                .header("accept", "application/json")
-                .queryString("apiKey", "123")
-                .field("parameter", "value")
-                .field("foo", "bar")
-                .asJson();
+        HttpResponse<JsonNode> jsonResponse = Unirest.get("http://localhost:9200/bank/_search?*").header("accept", "application/json").asJson();
+
         System.out.println(jsonResponse.getBody());
     }
 }
