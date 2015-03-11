@@ -20,6 +20,8 @@ public class GetData implements Runnable {
 
     @Override
     public void run() {
+        ApacheHttpGet.threadCount.incrementAndGet();
+        System.out.println("Thread count: "+ApacheHttpGet.threadCount.get());
         try {
 
             DefaultHttpClient httpClient = new DefaultHttpClient();
@@ -33,16 +35,6 @@ public class GetData implements Runnable {
                 throw new RuntimeException("Failed : HTTP error code : "
                         + response.getStatusLine().getStatusCode());
             }
-
-            BufferedReader br = new BufferedReader(
-                    new InputStreamReader((response.getEntity().getContent())));
-
-//                    String output;
-//                    System.out.println("Output from Server .... \n");
-//                    while ((output = br.readLine()) != null) {
-//                        System.out.println(output);
-//                    }
-
             httpClient.getConnectionManager().shutdown();
 
         } catch (ClientProtocolException e) {
@@ -53,5 +45,6 @@ public class GetData implements Runnable {
 
             e.printStackTrace();
         }
+        ApacheHttpGet.threadCount.decrementAndGet();
     }
 }
