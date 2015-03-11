@@ -32,9 +32,23 @@ public class GetData implements Runnable {
             HttpResponse response = httpClient.execute(getRequest);
 
             if (response.getStatusLine().getStatusCode() != 200) {
+                System.out.println("Something went wrong, status code: "+response.getStatusLine().getStatusCode()+ " Url: "+url);
                 throw new RuntimeException("Failed : HTTP error code : "
                         + response.getStatusLine().getStatusCode());
             }
+
+            BufferedReader br = new BufferedReader(
+                    new InputStreamReader((response.getEntity().getContent())));
+
+            String line;
+            String output = "";
+            System.out.println("Output from Server .... \n");
+            while ((line = br.readLine()) != null) {
+                output+=line;
+            }
+            System.out.println(url);
+            System.out.println(output);
+
             httpClient.getConnectionManager().shutdown();
 
         } catch (ClientProtocolException e) {
