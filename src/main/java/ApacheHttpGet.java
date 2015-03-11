@@ -24,15 +24,15 @@ public class ApacheHttpGet {
 
     public static void main(String[] args) {
 
-        httpGet();
-        httpGet();
-        httpGet();
-        httpGet();
-        httpGet();
-        httpGet();
+        httpGet(1);
+        httpGet(2);
+        httpGet(3);
+        httpGet(4);
+        httpGet(5);
+        httpGet(6);
     }
 
-    private static void httpGet() {
+    private static void httpGet(final int num) {
         Runnable t = new Runnable() {
             @Override
             public void run() {
@@ -53,13 +53,15 @@ public class ApacheHttpGet {
                     BufferedReader br = new BufferedReader(
                             new InputStreamReader((response.getEntity().getContent())));
 
-                    String output;
-                    System.out.println("Output from Server .... \n");
-                    while ((output = br.readLine()) != null) {
-                        System.out.println(output);
-                    }
+//                    String output;
+//                    System.out.println("Output from Server .... \n");
+//                    while ((output = br.readLine()) != null) {
+//                        System.out.println(output);
+//                    }
 
                     httpClient.getConnectionManager().shutdown();
+                    Thread.sleep(1000*(6-num));
+                    System.out.println(""+num);
 
                 } catch (ClientProtocolException e) {
 
@@ -67,6 +69,8 @@ public class ApacheHttpGet {
 
                 } catch (IOException e) {
 
+                    e.printStackTrace();
+                } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
             }
