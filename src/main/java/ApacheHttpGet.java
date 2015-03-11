@@ -11,14 +11,14 @@ public class ApacheHttpGet {
     public static AtomicInteger threadCount = new AtomicInteger(0);
     public static final int MAX_THREAD_COUNT =  10;
     public static ArrayList<String> wordList;
-    //public static final String  IP = "192.168.0.8";
-    public static final String  IP = "localhost";
+    public static final String  IP = "192.168.0.8";
+    //public static final String  IP = "localhost";
 
     public static void main(String[] args) {
         wordList = readWordIndex();
         while(true){
             if (threadCount.get() < 100) {
-                httpGet("http://"+IP+":9200/megacorpfggre/_search?" + getRandomNoun());
+                httpGet("http://"+IP+":9200/my_river/_search?" + getRandomNoun());
             }
 //            if (threadCount.get() < 10){
 //                httpGet("http://"+IP+":9200/bank/_search?"+getRandomWord(6));
@@ -44,7 +44,7 @@ public class ApacheHttpGet {
     private static ArrayList<String> readWordIndex(){
         ArrayList<String> wordList = new ArrayList<String>(117630);
         try {
-            BufferedReader br = new BufferedReader(new FileReader("test.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("index.txt"));
             String line;
             while ((line = br.readLine()) != null) {
                 wordList.add(line.split("[-_ ]")[0]);

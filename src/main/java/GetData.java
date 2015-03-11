@@ -44,6 +44,7 @@ public class GetData implements Runnable {
             while ((line = br.readLine()) != null) {
                 output+=line;
             }
+            br.close();
             Log.getInstance().logGetRequest(url,response.getStatusLine().getStatusCode(),100, output.length());
             httpClient.getConnectionManager().shutdown();
 

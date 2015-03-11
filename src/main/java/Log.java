@@ -2,6 +2,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.HashSet;
 import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
@@ -17,12 +18,15 @@ public class Log {
     private PrintWriter writer;
     private Logger logger;
     private Logger errorLogger;
-    FileHandler fh;
+    private FileHandler fh;
+    private FileHandler fhError;
+    private HashSet<String> completedQueries;
 
     private Log() {
         averageResponseTime = 0;
         logger = Logger.getLogger("mainLog");
         errorLogger = Logger.getLogger("errorLog");
+        completedQueries = new HashSet<String>();
     }
 
     public static Log getInstance(){
@@ -34,7 +38,12 @@ public class Log {
 
     public void logGetRequest(String url, int statusCode, int requestTime, int responseLength){
         setupMainLogger();
-        logger.info("status:"+statusCode+"; requestTime:"+requestTime+" responseLength:"+responseLength+"; URL:"+url+";");
+        if (!completedQueries.contains(url)){
+            logger.info("status:"+statusCode+"; requestTime:"+requestTime+"; firstTimeSearch:true"+"; URL:"+url+" responseLength:"+responseLength+";");
+            completedQueries.add(url);
+        }else {
+            logger.info("status:"+statusCode+"; requestTime:"+requestTime+"; firstTimeSearch:false"+"; URL:"+url+" responseLength:"+responseLength+";");
+        }
     }
 
     public void logGetRequestNot200(String url, int statusCode) {
@@ -42,34 +51,34 @@ public class Log {
         errorLogger.info("status:"+statusCode+"; URL:"+url+";");
     }
     private void setupMainLogger() {
-        try {
-            if (fh == null){
+        if (fh == null){
+            try {
                 fh = new FileHandler("log_"+new SimpleDateFormat("yyyy-MM-dd.HH.mm.ss").format(Calendar.getInstance().getTime())+".log");
                 logger.addHandler(fh);
                 SimpleFormatter formatter = new SimpleFormatter();
                 fh.setFormatter(formatter);
-            }
 
-        } catch (SecurityException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
+            } catch (SecurityException e) {
+                e.printStackTrace();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         }
     }
 
     private void setupErrorLogger() {
-        try {
-            if (fh == null){
-                fh = new FileHandler("ErrorLog_"+new SimpleDateFormat("yyyy-MM-dd.HH.mm.ss").format(Calendar.getInstance().getTime())+".log");
-                errorLogger.addHandler(fh);
+        if (fhError == null) {
+            try {
+                fhError = new FileHandler("ErrorLog_" + new SimpleDateFormat("yyyy-MM-dd.HH.mm.ss").format(Calendar.getInstance().getTime()) + ".log");
+                errorLogger.addHandler(fhError);
                 SimpleFormatter formatter = new SimpleFormatter();
-                fh.setFormatter(formatter);
-            }
+                fhError.setFormatter(formatter);
 
-        } catch (SecurityException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
+            } catch (SecurityException e) {
+                e.printStackTrace();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         }
     }
 }
