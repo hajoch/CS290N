@@ -24,55 +24,11 @@ public class ApacheHttpGet {
 
     public static void main(String[] args) {
 
-        httpGet(1);
-        httpGet(2);
-        httpGet(3);
-        httpGet(4);
-        httpGet(5);
-        httpGet(6);
+        httpGet("http://localhost:9200/bank/_search?*");
     }
 
-    private static void httpGet(final int num) {
-        Thread tt = new Thread(new Runnable() {
-            @Override
-            public void run() {
-                try {
-
-                    DefaultHttpClient httpClient = new DefaultHttpClient();
-                    HttpGet getRequest = new HttpGet(
-                            "http://localhost:9200/bank/_search?*");
-                    getRequest.addHeader("accept", "application/json");
-
-                    HttpResponse response = httpClient.execute(getRequest);
-
-                    if (response.getStatusLine().getStatusCode() != 200) {
-                        throw new RuntimeException("Failed : HTTP error code : "
-                                + response.getStatusLine().getStatusCode());
-                    }
-
-                    BufferedReader br = new BufferedReader(
-                            new InputStreamReader((response.getEntity().getContent())));
-
-//                    String output;
-//                    System.out.println("Output from Server .... \n");
-//                    while ((output = br.readLine()) != null) {
-//                        System.out.println(output);
-//                    }
-
-                    httpClient.getConnectionManager().shutdown();
-
-                } catch (ClientProtocolException e) {
-
-                    e.printStackTrace();
-
-                } catch (IOException e) {
-
-                    e.printStackTrace();
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-            }
-        });
+    private static void httpGet(String url) {
+        Thread tt = new Thread(new GetData(url));
         tt.start();
     }
 }
