@@ -40,7 +40,6 @@ public class GetData implements Runnable {
 
             String line;
             String output = "";
-            System.out.println("Output from Server .... \n");
             while ((line = br.readLine()) != null) {
                 output+=line;
             }

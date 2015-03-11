@@ -24,7 +24,7 @@ public class ApacheHttpGet {
 //                httpGet("http://"+IP+":9200/bank/_search?"+getRandomWord(6));
 //            }
             try {
-                Thread.sleep(1000);
+                Thread.sleep(100);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
