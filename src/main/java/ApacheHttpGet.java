@@ -33,7 +33,7 @@ public class ApacheHttpGet {
     }
 
     private static void httpGet(final int num) {
-        Thread tt = new Thread(Runnable t = new Runnable() {
+        Thread tt = new Thread(new Runnable() {
             @Override
             public void run() {
                 try {
@@ -60,8 +60,6 @@ public class ApacheHttpGet {
 //                    }
 
                     httpClient.getConnectionManager().shutdown();
-                    Thread.sleep(1000*(6-num));
-                    System.out.println(""+num);
 
                 } catch (ClientProtocolException e) {
 
@@ -75,6 +73,6 @@ public class ApacheHttpGet {
                 }
             }
         });
-        tt.run();
+        tt.start();
     }
 }
