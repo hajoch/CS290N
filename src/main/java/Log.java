@@ -59,7 +59,7 @@ public class Log {
         } else {
             logger.info("status:" + statusCode + "; requestTime:" + requestTime + "; firstTimeSearch:false" + "; URL:" + url + " responseLength:" + responseLength + ";");
         }
-        if (logged200ResponseCount%100 == 0 || logged200ResponseCount == 0){
+        if (logged200ResponseCount%ApacheHttpGet.OVERVIEW_LOG_INTERVAL == 0 || logged200ResponseCount == 0){
             overviewLogger.info("Response count:" + loggedResponseCount + "; Response count (200ok):" + logged200ResponseCount+
                     "; Average response time(200ok):" + getAverageResponseTime()+ "; Average response time(200ok) new terms:" + getAverageResponseTimeNewTerms());
         }

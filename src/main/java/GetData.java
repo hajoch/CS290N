@@ -29,7 +29,10 @@ public class GetData implements Runnable {
                     url);
             getRequest.addHeader("accept", "application/json");
 
+            long startTime = System.nanoTime();
             HttpResponse response = httpClient.execute(getRequest);
+            long endTime = System.nanoTime();
+            int responseTime = (int) ((endTime - startTime)/1000000);  //divide by 1000000 to get milliseconds.
 
             if (response.getStatusLine().getStatusCode() != 200) {
                 Log.getInstance().logGetRequestNot200(url, response.getStatusLine().getStatusCode());
@@ -44,7 +47,7 @@ public class GetData implements Runnable {
                 output+=line;
             }
             br.close();
-            Log.getInstance().logGetRequest(url,response.getStatusLine().getStatusCode(),100, output.length());
+            Log.getInstance().logGetRequest(url, response.getStatusLine().getStatusCode(), responseTime, output.length());
             httpClient.getConnectionManager().shutdown();
 
         } catch (Exception e) {

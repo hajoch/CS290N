@@ -9,10 +9,14 @@ import java.util.concurrent.atomic.AtomicInteger;
  */
 public class ApacheHttpGet {
     public static AtomicInteger threadCount = new AtomicInteger(0);
-    public static final int MAX_THREAD_COUNT =  10;
     public static ArrayList<String> wordList;
+
+
     public static final String  IP = "192.168.0.8";
     //public static final String  IP = "localhost";
+    public static final int MAX_THREAD_COUNT =  10;
+    public static final int OVERVIEW_LOG_INTERVAL = 1000; //milliseconds
+    public static final int REQUEST_INTERVAL = 100; //milliseconds
 
     public static void main(String[] args) {
         wordList = readWordIndex();
@@ -24,7 +28,7 @@ public class ApacheHttpGet {
 //                httpGet("http://"+IP+":9200/bank/_search?"+getRandomWord(6));
 //            }
             try {
-                Thread.sleep(100);
+                Thread.sleep(REQUEST_INTERVAL);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
