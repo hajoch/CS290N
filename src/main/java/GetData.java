@@ -48,6 +48,7 @@ public class GetData implements Runnable {
             }
             System.out.println(url);
             System.out.println(output);
+            Log.getInstance().logGetRequest(url,"200",100);
 
             httpClient.getConnectionManager().shutdown();
 

@@ -1,0 +1,12 @@
+mar 11, 2015 1:39:24 PM Log logGetRequest
+INFO: status: 200; requestTime: 100; URL: http://localhost:9200/megacorp/_search?alpenstock;
+mar 11, 2015 1:39:25 PM Log logGetRequest
+INFO: status: 200; requestTime: 100; URL: http://localhost:9200/megacorp/_search?alpenstock;
+mar 11, 2015 1:39:26 PM Log logGetRequest
+INFO: status: 200; requestTime: 100; URL: http://localhost:9200/megacorp/_search?alp;
+mar 11, 2015 1:39:27 PM Log logGetRequest
+INFO: status: 200; requestTime: 100; URL: http://localhost:9200/megacorp/_search?aloys;
+mar 11, 2015 1:39:28 PM Log logGetRequest
+INFO: status: 200; requestTime: 100; URL: http://localhost:9200/megacorp/_search?alpena;
+mar 11, 2015 1:39:29 PM Log logGetRequest
+INFO: status: 200; requestTime: 100; URL: http://localhost:9200/megacorp/_search?alpenstock;

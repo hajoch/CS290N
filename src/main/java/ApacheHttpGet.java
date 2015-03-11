@@ -11,13 +11,14 @@ public class ApacheHttpGet {
     public static AtomicInteger threadCount = new AtomicInteger(0);
     public static final int MAX_THREAD_COUNT =  10;
     public static ArrayList<String> wordList;
-    public static final String  IP = "192.168.0.8";
+    //public static final String  IP = "192.168.0.8";
+    public static final String  IP = "localhost";
 
     public static void main(String[] args) {
         wordList = readWordIndex();
         while(true){
             if (threadCount.get() < 100) {
-                httpGet("http://"+IP+":9200/bank/_search?" + getRandomNoun());
+                httpGet("http://"+IP+":9200/megacorp/_search?" + getRandomNoun());
             }
 //            if (threadCount.get() < 10){
 //                httpGet("http://"+IP+":9200/bank/_search?"+getRandomWord(6));
