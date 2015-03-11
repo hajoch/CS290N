@@ -33,7 +33,7 @@ public class ApacheHttpGet {
     }
 
     private static void httpGet(final int num) {
-        Runnable t = new Runnable() {
+        Thread tt = new Thread(Runnable t = new Runnable() {
             @Override
             public void run() {
                 try {
@@ -74,7 +74,7 @@ public class ApacheHttpGet {
                     e.printStackTrace();
                 }
             }
-        };
-        t.run();
+        });
+        tt.run();
     }
 }
