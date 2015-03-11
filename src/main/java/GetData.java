@@ -32,9 +32,7 @@ public class GetData implements Runnable {
             HttpResponse response = httpClient.execute(getRequest);
 
             if (response.getStatusLine().getStatusCode() != 200) {
-                System.out.println("Something went wrong, status code: "+response.getStatusLine().getStatusCode()+ " Url: "+url);
-                throw new RuntimeException("Failed : HTTP error code : "
-                        + response.getStatusLine().getStatusCode());
+                Log.getInstance().logGetRequestNot200(url, response.getStatusLine().getStatusCode());
             }
 
             BufferedReader br = new BufferedReader(
@@ -46,18 +44,10 @@ public class GetData implements Runnable {
             while ((line = br.readLine()) != null) {
                 output+=line;
             }
-            System.out.println(url);
-            System.out.println(output);
-            Log.getInstance().logGetRequest(url,"200",100);
-
+            Log.getInstance().logGetRequest(url,response.getStatusLine().getStatusCode(),100, output.length());
             httpClient.getConnectionManager().shutdown();
 
-        } catch (ClientProtocolException e) {
-
-            e.printStackTrace();
-
-        } catch (IOException e) {
-
+        } catch (Exception e) {
             e.printStackTrace();
         }
         ApacheHttpGet.threadCount.decrementAndGet();

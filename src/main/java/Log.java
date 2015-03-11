@@ -1,10 +1,7 @@
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.io.UnsupportedEncodingException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
@@ -18,10 +15,14 @@ public class Log {
     private double averageResponseTime;
     private int loggedResponseCount;
     private PrintWriter writer;
+    private Logger logger;
+    private Logger errorLogger;
     FileHandler fh;
 
     private Log() {
         averageResponseTime = 0;
+        logger = Logger.getLogger("mainLog");
+        errorLogger = Logger.getLogger("errorLog");
     }
 
     public static Log getInstance(){
@@ -31,17 +32,36 @@ public class Log {
         return instance;
     }
 
-    public void logGetRequest(String url, String statusCode, int requestTime){
-        Logger logger = Logger.getLogger("MyLog");
-        setupLogger(logger);
-        logger.info("status:"+statusCode+"; requestTime:"+requestTime+"; URL:"+url+";");
+    public void logGetRequest(String url, int statusCode, int requestTime, int responseLength){
+        setupMainLogger();
+        logger.info("status:"+statusCode+"; requestTime:"+requestTime+" responseLength:"+responseLength+"; URL:"+url+";");
     }
 
-    private void setupLogger(Logger logger) {
+    public void logGetRequestNot200(String url, int statusCode) {
+        setupErrorLogger();
+        errorLogger.info("status:"+statusCode+"; URL:"+url+";");
+    }
+    private void setupMainLogger() {
         try {
             if (fh == null){
                 fh = new FileHandler("log_"+new SimpleDateFormat("yyyy-MM-dd.HH.mm.ss").format(Calendar.getInstance().getTime())+".log");
                 logger.addHandler(fh);
+                SimpleFormatter formatter = new SimpleFormatter();
+                fh.setFormatter(formatter);
+            }
+
+        } catch (SecurityException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private void setupErrorLogger() {
+        try {
+            if (fh == null){
+                fh = new FileHandler("ErrorLog_"+new SimpleDateFormat("yyyy-MM-dd.HH.mm.ss").format(Calendar.getInstance().getTime())+".log");
+                errorLogger.addHandler(fh);
                 SimpleFormatter formatter = new SimpleFormatter();
                 fh.setFormatter(formatter);
             }

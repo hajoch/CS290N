@@ -18,7 +18,7 @@ public class ApacheHttpGet {
         wordList = readWordIndex();
         while(true){
             if (threadCount.get() < 100) {
-                httpGet("http://"+IP+":9200/megacorp/_search?" + getRandomNoun());
+                httpGet("http://"+IP+":9200/megacorpfggre/_search?" + getRandomNoun());
             }
 //            if (threadCount.get() < 10){
 //                httpGet("http://"+IP+":9200/bank/_search?"+getRandomWord(6));
