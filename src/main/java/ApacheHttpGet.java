@@ -14,14 +14,14 @@ public class ApacheHttpGet {
 
     public static final String  IP = "192.168.0.8";
     //public static final String  IP = "localhost";
-    public static final int MAX_THREAD_COUNT =  10;
-    public static final int OVERVIEW_LOG_INTERVAL = 1000; //milliseconds
+    public static final int MAX_THREAD_COUNT =  1;
+    public static final int OVERVIEW_LOG_INTERVAL = 100; //milliseconds
     public static final int REQUEST_INTERVAL = 100; //milliseconds
 
     public static void main(String[] args) {
         wordList = readWordIndex();
         while(true){
-            if (threadCount.get() < 100) {
+            if (threadCount.get() < MAX_THREAD_COUNT) {
                 httpGet("http://"+IP+":9200/my_river/_search?" + getRandomNoun());
             }
 //            if (threadCount.get() < 10){

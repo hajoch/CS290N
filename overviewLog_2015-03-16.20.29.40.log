@@ -1,0 +1,8 @@
+mar 16, 2015 8:29:54 PM Log logGetRequest
+INFO: Response count:100; Response count (200ok):100; Response count new term: 97; Average response time(200ok):594; Average response time(200ok) new terms:600
+mar 16, 2015 8:30:24 PM Log logGetRequest
+INFO: Response count:200; Response count (200ok):200; Response count new term: 191; Average response time(200ok):883; Average response time(200ok) new terms:907
+mar 16, 2015 8:30:44 PM Log logGetRequest
+INFO: Response count:300; Response count (200ok):300; Response count new term: 288; Average response time(200ok):735; Average response time(200ok) new terms:749
+mar 16, 2015 8:31:05 PM Log logGetRequest
+INFO: Response count:400; Response count (200ok):400; Response count new term: 380; Average response time(200ok):667; Average response time(200ok) new terms:682

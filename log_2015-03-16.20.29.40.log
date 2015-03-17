@@ -1,0 +1,818 @@
+mar 16, 2015 8:29:40 PM Log logGetRequest
+INFO: status:200; requestTime:1276; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?ascaridia responseLength:144129;
+mar 16, 2015 8:29:40 PM Log logGetRequest
+INFO: status:200; requestTime:875; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?qatari responseLength:144129;
+mar 16, 2015 8:29:40 PM Log logGetRequest
+INFO: status:200; requestTime:976; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?senecio responseLength:144129;
+mar 16, 2015 8:29:41 PM Log logGetRequest
+INFO: status:200; requestTime:1605; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?steel responseLength:144129;
+mar 16, 2015 8:29:41 PM Log logGetRequest
+INFO: status:200; requestTime:1229; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?cheerlessness responseLength:144129;
+mar 16, 2015 8:29:41 PM Log logGetRequest
+INFO: status:200; requestTime:1147; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?uzbekistani responseLength:144129;
+mar 16, 2015 8:29:41 PM Log logGetRequest
+INFO: status:200; requestTime:860; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?unpalatableness responseLength:144130;
+mar 16, 2015 8:29:41 PM Log logGetRequest
+INFO: status:200; requestTime:1487; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?sieve responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:461; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?spinal responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:1181; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?ununhexium responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:378; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?indian responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:1272; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?livingstone responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:1238; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?carob responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:1192; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?lazarus responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:629; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?stick responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:539; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?harvester responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:36; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?rico responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:307; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?witticism responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:4421; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?forelady responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:37; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?toxicology responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:47; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?sales responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:23; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?prelim responseLength:144129;
+mar 16, 2015 8:29:42 PM Log logGetRequest
+INFO: status:200; requestTime:28; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?weeness responseLength:144129;
+mar 16, 2015 8:29:43 PM Log logGetRequest
+INFO: status:200; requestTime:25; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?statutory responseLength:144129;
+mar 16, 2015 8:29:43 PM Log logGetRequest
+INFO: status:200; requestTime:78; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:29:43 PM Log logGetRequest
+INFO: status:200; requestTime:225; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?vibration responseLength:144129;
+mar 16, 2015 8:29:43 PM Log logGetRequest
+INFO: status:200; requestTime:190; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?materialism responseLength:144129;
+mar 16, 2015 8:29:43 PM Log logGetRequest
+INFO: status:200; requestTime:244; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?instinct responseLength:144129;
+mar 16, 2015 8:29:43 PM Log logGetRequest
+INFO: status:200; requestTime:120; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?cellulose responseLength:144129;
+mar 16, 2015 8:29:43 PM Log logGetRequest
+INFO: status:200; requestTime:228; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?patricide responseLength:144129;
+mar 16, 2015 8:29:43 PM Log logGetRequest
+INFO: status:200; requestTime:186; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?mail responseLength:144129;
+mar 16, 2015 8:29:44 PM Log logGetRequest
+INFO: status:200; requestTime:223; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?rock responseLength:144129;
+mar 16, 2015 8:29:44 PM Log logGetRequest
+INFO: status:200; requestTime:273; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?gesneria responseLength:144129;
+mar 16, 2015 8:29:44 PM Log logGetRequest
+INFO: status:200; requestTime:269; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?morus responseLength:144129;
+mar 16, 2015 8:29:44 PM Log logGetRequest
+INFO: status:200; requestTime:273; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?pinball responseLength:144129;
+mar 16, 2015 8:29:44 PM Log logGetRequest
+INFO: status:200; requestTime:333; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?american responseLength:144129;
+mar 16, 2015 8:29:44 PM Log logGetRequest
+INFO: status:200; requestTime:297; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?pacific responseLength:144129;
+mar 16, 2015 8:29:44 PM Log logGetRequest
+INFO: status:200; requestTime:285; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?zaman responseLength:144130;
+mar 16, 2015 8:29:44 PM Log logGetRequest
+INFO: status:200; requestTime:341; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?t responseLength:144129;
+mar 16, 2015 8:29:44 PM Log logGetRequest
+INFO: status:200; requestTime:255; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?minor responseLength:144129;
+mar 16, 2015 8:29:44 PM Log logGetRequest
+INFO: status:200; requestTime:238; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?sirloin responseLength:144129;
+mar 16, 2015 8:29:44 PM Log logGetRequest
+INFO: status:200; requestTime:185; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?black responseLength:144129;
+mar 16, 2015 8:29:44 PM Log logGetRequest
+INFO: status:200; requestTime:81; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?buffalofish responseLength:144129;
+mar 16, 2015 8:29:45 PM Log logGetRequest
+INFO: status:200; requestTime:126; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?caffre responseLength:144129;
+mar 16, 2015 8:29:45 PM Log logGetRequest
+INFO: status:200; requestTime:152; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?malpighian responseLength:144129;
+mar 16, 2015 8:29:45 PM Log logGetRequest
+INFO: status:200; requestTime:357; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?peripatopsis responseLength:144129;
+mar 16, 2015 8:29:45 PM Log logGetRequest
+INFO: status:200; requestTime:290; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?fink responseLength:144129;
+mar 16, 2015 8:29:45 PM Log logGetRequest
+INFO: status:200; requestTime:261; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?truthfulness responseLength:144129;
+mar 16, 2015 8:29:45 PM Log logGetRequest
+INFO: status:200; requestTime:218; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?picture responseLength:144129;
+mar 16, 2015 8:29:45 PM Log logGetRequest
+INFO: status:200; requestTime:202; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?doorplate responseLength:144130;
+mar 16, 2015 8:29:45 PM Log logGetRequest
+INFO: status:200; requestTime:123; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?foreign responseLength:144129;
+mar 16, 2015 8:29:45 PM Log logGetRequest
+INFO: status:200; requestTime:339; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?microgram responseLength:144129;
+mar 16, 2015 8:29:45 PM Log logGetRequest
+INFO: status:200; requestTime:89; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?foreigner responseLength:144129;
+mar 16, 2015 8:29:46 PM Log logGetRequest
+INFO: status:200; requestTime:40; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?acidophil responseLength:144130;
+mar 16, 2015 8:29:46 PM Log logGetRequest
+INFO: status:200; requestTime:96; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:29:46 PM Log logGetRequest
+INFO: status:200; requestTime:60; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?undesirability responseLength:144129;
+mar 16, 2015 8:29:46 PM Log logGetRequest
+INFO: status:200; requestTime:94; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?redhorse responseLength:144129;
+mar 16, 2015 8:29:46 PM Log logGetRequest
+INFO: status:200; requestTime:56; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?pyorrhea responseLength:144130;
+mar 16, 2015 8:29:46 PM Log logGetRequest
+INFO: status:200; requestTime:111; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?palate responseLength:144129;
+mar 16, 2015 8:29:46 PM Log logGetRequest
+INFO: status:200; requestTime:168; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?rock responseLength:144129;
+mar 16, 2015 8:29:47 PM Log logGetRequest
+INFO: status:200; requestTime:207; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?oaf responseLength:144129;
+mar 16, 2015 8:29:47 PM Log logGetRequest
+INFO: status:200; requestTime:407; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?spree responseLength:144129;
+mar 16, 2015 8:29:47 PM Log logGetRequest
+INFO: status:200; requestTime:387; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?rhipsalis responseLength:144129;
+mar 16, 2015 8:29:47 PM Log logGetRequest
+INFO: status:200; requestTime:372; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?decantation responseLength:144129;
+mar 16, 2015 8:29:47 PM Log logGetRequest
+INFO: status:200; requestTime:415; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?corn responseLength:144129;
+mar 16, 2015 8:29:47 PM Log logGetRequest
+INFO: status:200; requestTime:145; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?quail responseLength:144129;
+mar 16, 2015 8:29:47 PM Log logGetRequest
+INFO: status:200; requestTime:405; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?sans responseLength:144129;
+mar 16, 2015 8:29:47 PM Log logGetRequest
+INFO: status:200; requestTime:385; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?incurvature responseLength:144130;
+mar 16, 2015 8:29:47 PM Log logGetRequest
+INFO: status:200; requestTime:309; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?luigi responseLength:144130;
+mar 16, 2015 8:29:48 PM Log logGetRequest
+INFO: status:200; requestTime:380; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?bairdiella responseLength:144129;
+mar 16, 2015 8:29:48 PM Log logGetRequest
+INFO: status:200; requestTime:478; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?common responseLength:144129;
+mar 16, 2015 8:29:48 PM Log logGetRequest
+INFO: status:200; requestTime:548; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?bedsitting responseLength:144130;
+mar 16, 2015 8:29:48 PM Log logGetRequest
+INFO: status:200; requestTime:572; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?first responseLength:144129;
+mar 16, 2015 8:29:48 PM Log logGetRequest
+INFO: status:200; requestTime:566; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?relative responseLength:144129;
+mar 16, 2015 8:29:48 PM Log logGetRequest
+INFO: status:200; requestTime:482; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?vaunter responseLength:144129;
+mar 16, 2015 8:29:49 PM Log logGetRequest
+INFO: status:200; requestTime:717; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?stegosaurus responseLength:144129;
+mar 16, 2015 8:29:49 PM Log logGetRequest
+INFO: status:200; requestTime:854; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?henri responseLength:144129;
+mar 16, 2015 8:29:49 PM Log logGetRequest
+INFO: status:200; requestTime:873; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?flowering responseLength:144129;
+mar 16, 2015 8:29:49 PM Log logGetRequest
+INFO: status:200; requestTime:857; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?second responseLength:144129;
+mar 16, 2015 8:29:49 PM Log logGetRequest
+INFO: status:200; requestTime:831; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?episcopal responseLength:144130;
+mar 16, 2015 8:29:50 PM Log logGetRequest
+INFO: status:200; requestTime:486; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?lah responseLength:144129;
+mar 16, 2015 8:29:50 PM Log logGetRequest
+INFO: status:200; requestTime:1193; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?analphabetic responseLength:144129;
+mar 16, 2015 8:29:50 PM Log logGetRequest
+INFO: status:200; requestTime:1295; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?lanius responseLength:144130;
+mar 16, 2015 8:29:50 PM Log logGetRequest
+INFO: status:200; requestTime:533; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?kerosine responseLength:144129;
+mar 16, 2015 8:29:51 PM Log logGetRequest
+INFO: status:200; requestTime:1608; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?tense responseLength:144129;
+mar 16, 2015 8:29:51 PM Log logGetRequest
+INFO: status:200; requestTime:1698; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?garamycin responseLength:144129;
+mar 16, 2015 8:29:51 PM Log logGetRequest
+INFO: status:200; requestTime:837; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?san responseLength:144129;
+mar 16, 2015 8:29:51 PM Log logGetRequest
+INFO: status:200; requestTime:1195; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?nautical responseLength:144130;
+mar 16, 2015 8:29:51 PM Log logGetRequest
+INFO: status:200; requestTime:912; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?computer responseLength:144129;
+mar 16, 2015 8:29:51 PM Log logGetRequest
+INFO: status:200; requestTime:1480; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?mow responseLength:144130;
+mar 16, 2015 8:29:51 PM Log logGetRequest
+INFO: status:200; requestTime:669; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?manumission responseLength:144129;
+mar 16, 2015 8:29:52 PM Log logGetRequest
+INFO: status:200; requestTime:1171; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?glass responseLength:144129;
+mar 16, 2015 8:29:52 PM Log logGetRequest
+INFO: status:200; requestTime:820; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?rocket responseLength:144129;
+mar 16, 2015 8:29:52 PM Log logGetRequest
+INFO: status:200; requestTime:682; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?family responseLength:144129;
+mar 16, 2015 8:29:52 PM Log logGetRequest
+INFO: status:200; requestTime:859; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?unlikeness responseLength:144129;
+mar 16, 2015 8:29:53 PM Log logGetRequest
+INFO: status:200; requestTime:933; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:29:53 PM Log logGetRequest
+INFO: status:200; requestTime:1208; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?k responseLength:144129;
+mar 16, 2015 8:29:53 PM Log logGetRequest
+INFO: status:200; requestTime:830; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?walnut responseLength:144129;
+mar 16, 2015 8:29:53 PM Log logGetRequest
+INFO: status:200; requestTime:1025; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?bog responseLength:144129;
+mar 16, 2015 8:29:54 PM Log logGetRequest
+INFO: status:200; requestTime:1426; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?samoyedic responseLength:144129;
+mar 16, 2015 8:29:54 PM Log logGetRequest
+INFO: status:200; requestTime:1030; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?otto responseLength:144129;
+mar 16, 2015 8:29:54 PM Log logGetRequest
+INFO: status:200; requestTime:1558; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?work responseLength:144129;
+mar 16, 2015 8:29:54 PM Log logGetRequest
+INFO: status:200; requestTime:1752; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?tea responseLength:144129;
+mar 16, 2015 8:29:55 PM Log logGetRequest
+INFO: status:200; requestTime:1226; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?counteraction responseLength:144129;
+mar 16, 2015 8:29:55 PM Log logGetRequest
+INFO: status:200; requestTime:1171; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?quadraphony responseLength:144130;
+mar 16, 2015 8:29:55 PM Log logGetRequest
+INFO: status:200; requestTime:1169; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?saint responseLength:144129;
+mar 16, 2015 8:29:55 PM Log logGetRequest
+INFO: status:200; requestTime:740; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?proletariat responseLength:144129;
+mar 16, 2015 8:29:55 PM Log logGetRequest
+INFO: status:200; requestTime:1365; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?whirligig responseLength:144129;
+mar 16, 2015 8:29:56 PM Log logGetRequest
+INFO: status:200; requestTime:1332; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?dictyophera responseLength:144129;
+mar 16, 2015 8:29:56 PM Log logGetRequest
+INFO: status:200; requestTime:976; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?guestworker responseLength:144129;
+mar 16, 2015 8:29:56 PM Log logGetRequest
+INFO: status:200; requestTime:688; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?uniat responseLength:144129;
+mar 16, 2015 8:29:56 PM Log logGetRequest
+INFO: status:200; requestTime:957; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?red responseLength:144129;
+mar 16, 2015 8:29:56 PM Log logGetRequest
+INFO: status:200; requestTime:984; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?jesse responseLength:144129;
+mar 16, 2015 8:29:56 PM Log logGetRequest
+INFO: status:200; requestTime:1956; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?gumminess responseLength:144129;
+mar 16, 2015 8:29:56 PM Log logGetRequest
+INFO: status:200; requestTime:966; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?josiah responseLength:144129;
+mar 16, 2015 8:29:57 PM Log logGetRequest
+INFO: status:200; requestTime:901; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:29:57 PM Log logGetRequest
+INFO: status:200; requestTime:1024; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?whimsicality responseLength:144129;
+mar 16, 2015 8:29:57 PM Log logGetRequest
+INFO: status:200; requestTime:934; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?falangist responseLength:144129;
+mar 16, 2015 8:29:57 PM Log logGetRequest
+INFO: status:200; requestTime:863; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?hiram responseLength:144129;
+mar 16, 2015 8:29:58 PM Log logGetRequest
+INFO: status:200; requestTime:792; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?tenet responseLength:144129;
+mar 16, 2015 8:29:58 PM Log logGetRequest
+INFO: status:200; requestTime:1291; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?myotonia responseLength:144129;
+mar 16, 2015 8:29:58 PM Log logGetRequest
+INFO: status:200; requestTime:820; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?salt responseLength:144129;
+mar 16, 2015 8:29:58 PM Log logGetRequest
+INFO: status:200; requestTime:935; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?martha responseLength:144129;
+mar 16, 2015 8:29:58 PM Log logGetRequest
+INFO: status:200; requestTime:900; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?crested responseLength:144129;
+mar 16, 2015 8:29:58 PM Log logGetRequest
+INFO: status:200; requestTime:1020; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?recess responseLength:144129;
+mar 16, 2015 8:29:58 PM Log logGetRequest
+INFO: status:200; requestTime:896; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?crossopterygian responseLength:144129;
+mar 16, 2015 8:29:59 PM Log logGetRequest
+INFO: status:200; requestTime:979; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:29:59 PM Log logGetRequest
+INFO: status:200; requestTime:1427; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?parascalops responseLength:144129;
+mar 16, 2015 8:29:59 PM Log logGetRequest
+INFO: status:200; requestTime:1037; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?compact responseLength:144129;
+mar 16, 2015 8:30:00 PM Log logGetRequest
+INFO: status:200; requestTime:1619; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?imputation responseLength:144129;
+mar 16, 2015 8:30:01 PM Log logGetRequest
+INFO: status:200; requestTime:1491; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?musales responseLength:144129;
+mar 16, 2015 8:30:01 PM Log logGetRequest
+INFO: status:200; requestTime:1391; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?prairie responseLength:144129;
+mar 16, 2015 8:30:02 PM Log logGetRequest
+INFO: status:200; requestTime:1580; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?cuddling responseLength:144129;
+mar 16, 2015 8:30:02 PM Log logGetRequest
+INFO: status:200; requestTime:1607; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?breakers responseLength:144129;
+mar 16, 2015 8:30:02 PM Log logGetRequest
+INFO: status:200; requestTime:1886; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?tuxtla responseLength:144129;
+mar 16, 2015 8:30:02 PM Log logGetRequest
+INFO: status:200; requestTime:2003; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?sir responseLength:144129;
+mar 16, 2015 8:30:02 PM Log logGetRequest
+INFO: status:200; requestTime:974; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?trinectes responseLength:144129;
+mar 16, 2015 8:30:02 PM Log logGetRequest
+INFO: status:200; requestTime:1894; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?tulipa responseLength:144129;
+mar 16, 2015 8:30:02 PM Log logGetRequest
+INFO: status:200; requestTime:550; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?suborder responseLength:144129;
+mar 16, 2015 8:30:03 PM Log logGetRequest
+INFO: status:200; requestTime:708; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?real responseLength:144129;
+mar 16, 2015 8:30:03 PM Log logGetRequest
+INFO: status:200; requestTime:847; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?race responseLength:144129;
+mar 16, 2015 8:30:03 PM Log logGetRequest
+INFO: status:200; requestTime:981; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?vena responseLength:144129;
+mar 16, 2015 8:30:09 PM Log logGetRequest
+INFO: status:200; requestTime:5184; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?home responseLength:144129;
+mar 16, 2015 8:30:09 PM Log logGetRequest
+INFO: status:200; requestTime:66; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?wartweed responseLength:144129;
+mar 16, 2015 8:30:09 PM Log logGetRequest
+INFO: status:200; requestTime:16; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?clearway responseLength:144129;
+mar 16, 2015 8:30:09 PM Log logGetRequest
+INFO: status:200; requestTime:889; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?cumbria responseLength:144129;
+mar 16, 2015 8:30:12 PM Log logGetRequest
+INFO: status:200; requestTime:1166; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?eichhornia responseLength:144129;
+mar 16, 2015 8:30:12 PM Log logGetRequest
+INFO: status:200; requestTime:19; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?adventurism responseLength:144129;
+mar 16, 2015 8:30:12 PM Log logGetRequest
+INFO: status:200; requestTime:15; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?cassava responseLength:144130;
+mar 16, 2015 8:30:12 PM Log logGetRequest
+INFO: status:200; requestTime:1919; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?hyperpiesia responseLength:144129;
+mar 16, 2015 8:30:12 PM Log logGetRequest
+INFO: status:200; requestTime:17; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:30:13 PM Log logGetRequest
+INFO: status:200; requestTime:30; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:30:13 PM Log logGetRequest
+INFO: status:200; requestTime:3100; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?able responseLength:144129;
+mar 16, 2015 8:30:13 PM Log logGetRequest
+INFO: status:200; requestTime:81; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?northern responseLength:144129;
+mar 16, 2015 8:30:13 PM Log logGetRequest
+INFO: status:200; requestTime:27; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?order responseLength:144129;
+mar 16, 2015 8:30:13 PM Log logGetRequest
+INFO: status:200; requestTime:14; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?delicious responseLength:144129;
+mar 16, 2015 8:30:13 PM Log logGetRequest
+INFO: status:200; requestTime:14; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?husayn responseLength:144129;
+mar 16, 2015 8:30:13 PM Log logGetRequest
+INFO: status:200; requestTime:8068; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?night responseLength:144129;
+mar 16, 2015 8:30:13 PM Log logGetRequest
+INFO: status:200; requestTime:12; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?achillea responseLength:144129;
+mar 16, 2015 8:30:13 PM Log logGetRequest
+INFO: status:200; requestTime:8371; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?variola responseLength:144129;
+mar 16, 2015 8:30:13 PM Log logGetRequest
+INFO: status:200; requestTime:25; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?vade responseLength:144130;
+mar 16, 2015 8:30:14 PM Log logGetRequest
+INFO: status:200; requestTime:54; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?hop responseLength:144130;
+mar 16, 2015 8:30:14 PM Log logGetRequest
+INFO: status:200; requestTime:16; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?fertility responseLength:144129;
+mar 16, 2015 8:30:14 PM Log logGetRequest
+INFO: status:200; requestTime:14; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?meuse responseLength:144129;
+mar 16, 2015 8:30:15 PM Log logGetRequest
+INFO: status:200; requestTime:16; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?outcry responseLength:144129;
+mar 16, 2015 8:30:16 PM Log logGetRequest
+INFO: status:200; requestTime:704; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?karl responseLength:144129;
+mar 16, 2015 8:30:16 PM Log logGetRequest
+INFO: status:200; requestTime:6079; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?john responseLength:144129;
+mar 16, 2015 8:30:16 PM Log logGetRequest
+INFO: status:200; requestTime:28; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?insectivora responseLength:144129;
+mar 16, 2015 8:30:16 PM Log logGetRequest
+INFO: status:200; requestTime:48; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?handbreadth responseLength:144130;
+mar 16, 2015 8:30:16 PM Log logGetRequest
+INFO: status:200; requestTime:54; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:30:16 PM Log logGetRequest
+INFO: status:200; requestTime:2474; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?marmalade responseLength:144129;
+mar 16, 2015 8:30:16 PM Log logGetRequest
+INFO: status:200; requestTime:84; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?cross responseLength:144129;
+mar 16, 2015 8:30:17 PM Log logGetRequest
+INFO: status:200; requestTime:93; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?light responseLength:144129;
+mar 16, 2015 8:30:17 PM Log logGetRequest
+INFO: status:200; requestTime:98; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?french responseLength:144129;
+mar 16, 2015 8:30:17 PM Log logGetRequest
+INFO: status:200; requestTime:132; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?riding responseLength:144129;
+mar 16, 2015 8:30:17 PM Log logGetRequest
+INFO: status:200; requestTime:125; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?hollands responseLength:144129;
+mar 16, 2015 8:30:18 PM Log logGetRequest
+INFO: status:200; requestTime:3098; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?homogenized responseLength:144129;
+mar 16, 2015 8:30:18 PM Log logGetRequest
+INFO: status:200; requestTime:151; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?family responseLength:144129;
+mar 16, 2015 8:30:18 PM Log logGetRequest
+INFO: status:200; requestTime:374; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?multiple responseLength:144129;
+mar 16, 2015 8:30:18 PM Log logGetRequest
+INFO: status:200; requestTime:280; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?bering responseLength:144129;
+mar 16, 2015 8:30:19 PM Log logGetRequest
+INFO: status:200; requestTime:199; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?malachite responseLength:144129;
+mar 16, 2015 8:30:19 PM Log logGetRequest
+INFO: status:200; requestTime:125; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?weather responseLength:144129;
+mar 16, 2015 8:30:19 PM Log logGetRequest
+INFO: status:200; requestTime:47; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?oriental responseLength:144129;
+mar 16, 2015 8:30:19 PM Log logGetRequest
+INFO: status:200; requestTime:81; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?lobotes responseLength:144129;
+mar 16, 2015 8:30:20 PM Log logGetRequest
+INFO: status:200; requestTime:109; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?sailor responseLength:144129;
+mar 16, 2015 8:30:20 PM Log logGetRequest
+INFO: status:200; requestTime:15; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?breakable responseLength:144129;
+mar 16, 2015 8:30:20 PM Log logGetRequest
+INFO: status:200; requestTime:27; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?garden responseLength:144129;
+mar 16, 2015 8:30:20 PM Log logGetRequest
+INFO: status:200; requestTime:2093; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?functionality responseLength:144129;
+mar 16, 2015 8:30:20 PM Log logGetRequest
+INFO: status:200; requestTime:63; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?delaware responseLength:144129;
+mar 16, 2015 8:30:21 PM Log logGetRequest
+INFO: status:200; requestTime:24; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?ginkgo responseLength:144130;
+mar 16, 2015 8:30:21 PM Log logGetRequest
+INFO: status:200; requestTime:21; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?dronabinol responseLength:144129;
+mar 16, 2015 8:30:21 PM Log logGetRequest
+INFO: status:200; requestTime:48; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?diamond responseLength:144130;
+mar 16, 2015 8:30:21 PM Log logGetRequest
+INFO: status:200; requestTime:73; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search? responseLength:144129;
+mar 16, 2015 8:30:22 PM Log logGetRequest
+INFO: status:200; requestTime:31; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?perigone responseLength:144129;
+mar 16, 2015 8:30:23 PM Log logGetRequest
+INFO: status:200; requestTime:158; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?defrayal responseLength:144129;
+mar 16, 2015 8:30:23 PM Log logGetRequest
+INFO: status:200; requestTime:9113; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?goteborg responseLength:144129;
+mar 16, 2015 8:30:23 PM Log logGetRequest
+INFO: status:200; requestTime:3283; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?mediterranean responseLength:144129;
+mar 16, 2015 8:30:24 PM Log logGetRequest
+INFO: status:200; requestTime:311; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?ailuropoda responseLength:144129;
+mar 16, 2015 8:30:24 PM Log logGetRequest
+INFO: status:200; requestTime:8685; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?olympic responseLength:144129;
+mar 16, 2015 8:30:24 PM Log logGetRequest
+INFO: status:200; requestTime:631; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?pleasure responseLength:144129;
+mar 16, 2015 8:30:24 PM Log logGetRequest
+INFO: status:200; requestTime:122; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?audience responseLength:144129;
+mar 16, 2015 8:30:24 PM Log logGetRequest
+INFO: status:200; requestTime:75; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?flying responseLength:144130;
+mar 16, 2015 8:30:25 PM Log logGetRequest
+INFO: status:200; requestTime:88; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?captor responseLength:144129;
+mar 16, 2015 8:30:25 PM Log logGetRequest
+INFO: status:200; requestTime:378; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?articulatio responseLength:144129;
+mar 16, 2015 8:30:25 PM Log logGetRequest
+INFO: status:200; requestTime:87; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?pentad responseLength:144129;
+mar 16, 2015 8:30:26 PM Log logGetRequest
+INFO: status:200; requestTime:62; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?varese responseLength:144129;
+mar 16, 2015 8:30:26 PM Log logGetRequest
+INFO: status:200; requestTime:363; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?sensory responseLength:144129;
+mar 16, 2015 8:30:26 PM Log logGetRequest
+INFO: status:200; requestTime:358; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?allen responseLength:144129;
+mar 16, 2015 8:30:26 PM Log logGetRequest
+INFO: status:200; requestTime:7227; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?lorelei responseLength:144129;
+mar 16, 2015 8:30:26 PM Log logGetRequest
+INFO: status:200; requestTime:249; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?jell responseLength:144129;
+mar 16, 2015 8:30:26 PM Log logGetRequest
+INFO: status:200; requestTime:240; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?zebu responseLength:144130;
+mar 16, 2015 8:30:26 PM Log logGetRequest
+INFO: status:200; requestTime:281; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?eleocharis responseLength:144129;
+mar 16, 2015 8:30:27 PM Log logGetRequest
+INFO: status:200; requestTime:121; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?impala responseLength:144129;
+mar 16, 2015 8:30:27 PM Log logGetRequest
+INFO: status:200; requestTime:197; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?wood responseLength:144129;
+mar 16, 2015 8:30:27 PM Log logGetRequest
+INFO: status:200; requestTime:169; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?director responseLength:144129;
+mar 16, 2015 8:30:27 PM Log logGetRequest
+INFO: status:200; requestTime:110; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?kino responseLength:144129;
+mar 16, 2015 8:30:27 PM Log logGetRequest
+INFO: status:200; requestTime:168; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?sardinops responseLength:144129;
+mar 16, 2015 8:30:28 PM Log logGetRequest
+INFO: status:200; requestTime:6550; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?subunit responseLength:144129;
+mar 16, 2015 8:30:28 PM Log logGetRequest
+INFO: status:200; requestTime:300; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?fun responseLength:144129;
+mar 16, 2015 8:30:28 PM Log logGetRequest
+INFO: status:200; requestTime:272; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?backhoe responseLength:144129;
+mar 16, 2015 8:30:28 PM Log logGetRequest
+INFO: status:200; requestTime:141; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?biserial responseLength:144129;
+mar 16, 2015 8:30:29 PM Log logGetRequest
+INFO: status:200; requestTime:187; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?hives responseLength:144130;
+mar 16, 2015 8:30:29 PM Log logGetRequest
+INFO: status:200; requestTime:186; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?podiceps responseLength:144129;
+mar 16, 2015 8:30:29 PM Log logGetRequest
+INFO: status:200; requestTime:376; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?input responseLength:144130;
+mar 16, 2015 8:30:30 PM Log logGetRequest
+INFO: status:200; requestTime:372; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?omphalotus responseLength:144129;
+mar 16, 2015 8:30:30 PM Log logGetRequest
+INFO: status:200; requestTime:314; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?halftone responseLength:144129;
+mar 16, 2015 8:30:30 PM Log logGetRequest
+INFO: status:200; requestTime:274; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?bunter responseLength:144129;
+mar 16, 2015 8:30:30 PM Log logGetRequest
+INFO: status:200; requestTime:491; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?qualification responseLength:144129;
+mar 16, 2015 8:30:30 PM Log logGetRequest
+INFO: status:200; requestTime:290; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?1 responseLength:144129;
+mar 16, 2015 8:30:30 PM Log logGetRequest
+INFO: status:200; requestTime:592; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?blue responseLength:144129;
+mar 16, 2015 8:30:30 PM Log logGetRequest
+INFO: status:200; requestTime:311; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?prying responseLength:144129;
+mar 16, 2015 8:30:31 PM Log logGetRequest
+INFO: status:200; requestTime:172; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?epipremnum responseLength:144130;
+mar 16, 2015 8:30:31 PM Log logGetRequest
+INFO: status:200; requestTime:148; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?escalope responseLength:144129;
+mar 16, 2015 8:30:31 PM Log logGetRequest
+INFO: status:200; requestTime:440; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?bachelor responseLength:144129;
+mar 16, 2015 8:30:32 PM Log logGetRequest
+INFO: status:200; requestTime:229; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?november responseLength:144129;
+mar 16, 2015 8:30:33 PM Log logGetRequest
+INFO: status:200; requestTime:200; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?liberian responseLength:144129;
+mar 16, 2015 8:30:33 PM Log logGetRequest
+INFO: status:200; requestTime:250; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?south responseLength:144129;
+mar 16, 2015 8:30:33 PM Log logGetRequest
+INFO: status:200; requestTime:852; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?shirking responseLength:144129;
+mar 16, 2015 8:30:33 PM Log logGetRequest
+INFO: status:200; requestTime:223; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?bardolatry responseLength:144129;
+mar 16, 2015 8:30:33 PM Log logGetRequest
+INFO: status:200; requestTime:792; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?burnous responseLength:144129;
+mar 16, 2015 8:30:33 PM Log logGetRequest
+INFO: status:200; requestTime:221; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?business responseLength:144129;
+mar 16, 2015 8:30:34 PM Log logGetRequest
+INFO: status:200; requestTime:266; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?painted responseLength:144129;
+mar 16, 2015 8:30:34 PM Log logGetRequest
+INFO: status:200; requestTime:365; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?pseudopod responseLength:144129;
+mar 16, 2015 8:30:34 PM Log logGetRequest
+INFO: status:200; requestTime:301; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?bletia responseLength:144129;
+mar 16, 2015 8:30:34 PM Log logGetRequest
+INFO: status:200; requestTime:668; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?san responseLength:144129;
+mar 16, 2015 8:30:34 PM Log logGetRequest
+INFO: status:200; requestTime:253; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?nageia responseLength:144129;
+mar 16, 2015 8:30:34 PM Log logGetRequest
+INFO: status:200; requestTime:1722; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?drop responseLength:144129;
+mar 16, 2015 8:30:34 PM Log logGetRequest
+INFO: status:200; requestTime:91; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?counterexample responseLength:144129;
+mar 16, 2015 8:30:34 PM Log logGetRequest
+INFO: status:200; requestTime:158; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?apar responseLength:144129;
+mar 16, 2015 8:30:34 PM Log logGetRequest
+INFO: status:200; requestTime:335; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?anise responseLength:144129;
+mar 16, 2015 8:30:35 PM Log logGetRequest
+INFO: status:200; requestTime:181; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?leo responseLength:144130;
+mar 16, 2015 8:30:35 PM Log logGetRequest
+INFO: status:200; requestTime:389; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?st. responseLength:144129;
+mar 16, 2015 8:30:35 PM Log logGetRequest
+INFO: status:200; requestTime:191; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?icterus responseLength:144129;
+mar 16, 2015 8:30:35 PM Log logGetRequest
+INFO: status:200; requestTime:131; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?stir responseLength:144129;
+mar 16, 2015 8:30:35 PM Log logGetRequest
+INFO: status:200; requestTime:215; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?smash responseLength:144129;
+mar 16, 2015 8:30:35 PM Log logGetRequest
+INFO: status:200; requestTime:213; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?titanium responseLength:144129;
+mar 16, 2015 8:30:35 PM Log logGetRequest
+INFO: status:200; requestTime:251; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?sayornis responseLength:144130;
+mar 16, 2015 8:30:36 PM Log logGetRequest
+INFO: status:200; requestTime:168; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?portrayer responseLength:144129;
+mar 16, 2015 8:30:36 PM Log logGetRequest
+INFO: status:200; requestTime:119; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?drum responseLength:144129;
+mar 16, 2015 8:30:36 PM Log logGetRequest
+INFO: status:200; requestTime:225; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?espoo responseLength:144129;
+mar 16, 2015 8:30:36 PM Log logGetRequest
+INFO: status:200; requestTime:344; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?peso responseLength:144129;
+mar 16, 2015 8:30:36 PM Log logGetRequest
+INFO: status:200; requestTime:212; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?joint responseLength:144129;
+mar 16, 2015 8:30:36 PM Log logGetRequest
+INFO: status:200; requestTime:283; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?agamemnon responseLength:144129;
+mar 16, 2015 8:30:36 PM Log logGetRequest
+INFO: status:200; requestTime:316; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?paillasse responseLength:144129;
+mar 16, 2015 8:30:36 PM Log logGetRequest
+INFO: status:200; requestTime:434; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?biblical responseLength:144129;
+mar 16, 2015 8:30:36 PM Log logGetRequest
+INFO: status:200; requestTime:234; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?leechee responseLength:144130;
+mar 16, 2015 8:30:36 PM Log logGetRequest
+INFO: status:200; requestTime:253; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?semilunar responseLength:144129;
+mar 16, 2015 8:30:37 PM Log logGetRequest
+INFO: status:200; requestTime:154; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?genital responseLength:144129;
+mar 16, 2015 8:30:37 PM Log logGetRequest
+INFO: status:200; requestTime:173; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?angioplasty responseLength:144129;
+mar 16, 2015 8:30:37 PM Log logGetRequest
+INFO: status:200; requestTime:318; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?cyclosis responseLength:144129;
+mar 16, 2015 8:30:37 PM Log logGetRequest
+INFO: status:200; requestTime:143; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?rhymer responseLength:144129;
+mar 16, 2015 8:30:37 PM Log logGetRequest
+INFO: status:200; requestTime:169; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?leechee responseLength:144130;
+mar 16, 2015 8:30:38 PM Log logGetRequest
+INFO: status:200; requestTime:390; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?field responseLength:144129;
+mar 16, 2015 8:30:38 PM Log logGetRequest
+INFO: status:200; requestTime:437; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?pinion responseLength:144129;
+mar 16, 2015 8:30:38 PM Log logGetRequest
+INFO: status:200; requestTime:351; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?oil responseLength:144129;
+mar 16, 2015 8:30:38 PM Log logGetRequest
+INFO: status:200; requestTime:151; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?vitrine responseLength:144129;
+mar 16, 2015 8:30:38 PM Log logGetRequest
+INFO: status:200; requestTime:149; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?slat responseLength:144129;
+mar 16, 2015 8:30:38 PM Log logGetRequest
+INFO: status:200; requestTime:224; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?ganoine responseLength:144129;
+mar 16, 2015 8:30:39 PM Log logGetRequest
+INFO: status:200; requestTime:448; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?wild responseLength:144129;
+mar 16, 2015 8:30:39 PM Log logGetRequest
+INFO: status:200; requestTime:453; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?friedrich responseLength:144129;
+mar 16, 2015 8:30:40 PM Log logGetRequest
+INFO: status:200; requestTime:306; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?gilmer responseLength:144129;
+mar 16, 2015 8:30:40 PM Log logGetRequest
+INFO: status:200; requestTime:260; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?racing responseLength:144129;
+mar 16, 2015 8:30:41 PM Log logGetRequest
+INFO: status:200; requestTime:367; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?civil responseLength:144129;
+mar 16, 2015 8:30:41 PM Log logGetRequest
+INFO: status:200; requestTime:337; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?pic responseLength:144129;
+mar 16, 2015 8:30:41 PM Log logGetRequest
+INFO: status:200; requestTime:955; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?solenostemon responseLength:144129;
+mar 16, 2015 8:30:41 PM Log logGetRequest
+INFO: status:200; requestTime:207; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?air responseLength:144129;
+mar 16, 2015 8:30:41 PM Log logGetRequest
+INFO: status:200; requestTime:225; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?habenaria responseLength:144129;
+mar 16, 2015 8:30:41 PM Log logGetRequest
+INFO: status:200; requestTime:776; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?open responseLength:144129;
+mar 16, 2015 8:30:41 PM Log logGetRequest
+INFO: status:200; requestTime:441; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?athyriaceae responseLength:144129;
+mar 16, 2015 8:30:41 PM Log logGetRequest
+INFO: status:200; requestTime:282; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?hooded responseLength:144129;
+mar 16, 2015 8:30:41 PM Log logGetRequest
+INFO: status:200; requestTime:793; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?monterey responseLength:144130;
+mar 16, 2015 8:30:41 PM Log logGetRequest
+INFO: status:200; requestTime:388; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:30:42 PM Log logGetRequest
+INFO: status:200; requestTime:220; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?nasturtium responseLength:144130;
+mar 16, 2015 8:30:43 PM Log logGetRequest
+INFO: status:200; requestTime:241; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?germ responseLength:144129;
+mar 16, 2015 8:30:43 PM Log logGetRequest
+INFO: status:200; requestTime:200; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?pot responseLength:144129;
+mar 16, 2015 8:30:43 PM Log logGetRequest
+INFO: status:200; requestTime:382; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?kaiser responseLength:144129;
+mar 16, 2015 8:30:43 PM Log logGetRequest
+INFO: status:200; requestTime:218; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?class responseLength:144129;
+mar 16, 2015 8:30:44 PM Log logGetRequest
+INFO: status:200; requestTime:230; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?conn's responseLength:144129;
+mar 16, 2015 8:30:44 PM Log logGetRequest
+INFO: status:200; requestTime:348; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?double responseLength:144129;
+mar 16, 2015 8:30:44 PM Log logGetRequest
+INFO: status:200; requestTime:234; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?wingman responseLength:144130;
+mar 16, 2015 8:30:44 PM Log logGetRequest
+INFO: status:200; requestTime:456; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?legal responseLength:144129;
+mar 16, 2015 8:30:44 PM Log logGetRequest
+INFO: status:200; requestTime:415; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?bismarck responseLength:144129;
+mar 16, 2015 8:30:44 PM Log logGetRequest
+INFO: status:200; requestTime:377; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?negro responseLength:144129;
+mar 16, 2015 8:30:45 PM Log logGetRequest
+INFO: status:200; requestTime:274; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?apportionment responseLength:144129;
+mar 16, 2015 8:30:46 PM Log logGetRequest
+INFO: status:200; requestTime:586; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?thomas responseLength:144129;
+mar 16, 2015 8:30:46 PM Log logGetRequest
+INFO: status:200; requestTime:448; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?striper responseLength:144129;
+mar 16, 2015 8:30:46 PM Log logGetRequest
+INFO: status:200; requestTime:589; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?potato responseLength:144130;
+mar 16, 2015 8:30:47 PM Log logGetRequest
+INFO: status:200; requestTime:293; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?experimentalism responseLength:144129;
+mar 16, 2015 8:30:47 PM Log logGetRequest
+INFO: status:200; requestTime:847; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?rancher responseLength:144129;
+mar 16, 2015 8:30:47 PM Log logGetRequest
+INFO: status:200; requestTime:755; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?seraglio responseLength:144129;
+mar 16, 2015 8:30:47 PM Log logGetRequest
+INFO: status:200; requestTime:512; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?aloeaceae responseLength:144129;
+mar 16, 2015 8:30:47 PM Log logGetRequest
+INFO: status:200; requestTime:590; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?righteye responseLength:144129;
+mar 16, 2015 8:30:47 PM Log logGetRequest
+INFO: status:200; requestTime:439; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?marsh responseLength:144129;
+mar 16, 2015 8:30:47 PM Log logGetRequest
+INFO: status:200; requestTime:370; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?honey responseLength:144130;
+mar 16, 2015 8:30:47 PM Log logGetRequest
+INFO: status:200; requestTime:424; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:30:50 PM Log logGetRequest
+INFO: status:200; requestTime:200; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?mortgage responseLength:144129;
+mar 16, 2015 8:30:50 PM Log logGetRequest
+INFO: status:200; requestTime:289; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?jeopardy responseLength:144129;
+mar 16, 2015 8:30:50 PM Log logGetRequest
+INFO: status:200; requestTime:157; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?oh responseLength:144129;
+mar 16, 2015 8:30:51 PM Log logGetRequest
+INFO: status:200; requestTime:509; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?coastal responseLength:144129;
+mar 16, 2015 8:30:51 PM Log logGetRequest
+INFO: status:200; requestTime:1608; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?lizard's responseLength:144129;
+mar 16, 2015 8:30:52 PM Log logGetRequest
+INFO: status:200; requestTime:2295; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?boundary responseLength:144129;
+mar 16, 2015 8:30:52 PM Log logGetRequest
+INFO: status:200; requestTime:177; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?neuroleptic responseLength:144129;
+mar 16, 2015 8:30:52 PM Log logGetRequest
+INFO: status:200; requestTime:2170; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?charlie responseLength:144129;
+mar 16, 2015 8:30:52 PM Log logGetRequest
+INFO: status:200; requestTime:1861; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?stadium responseLength:144129;
+mar 16, 2015 8:30:53 PM Log logGetRequest
+INFO: status:200; requestTime:3117; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?planck's responseLength:144129;
+mar 16, 2015 8:30:53 PM Log logGetRequest
+INFO: status:200; requestTime:176; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?innervation responseLength:144129;
+mar 16, 2015 8:30:53 PM Log logGetRequest
+INFO: status:200; requestTime:534; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?slough responseLength:144129;
+mar 16, 2015 8:30:53 PM Log logGetRequest
+INFO: status:200; requestTime:607; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?time responseLength:144129;
+mar 16, 2015 8:30:53 PM Log logGetRequest
+INFO: status:200; requestTime:331; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:30:53 PM Log logGetRequest
+INFO: status:200; requestTime:346; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?soapbox responseLength:144129;
+mar 16, 2015 8:30:53 PM Log logGetRequest
+INFO: status:200; requestTime:324; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?coho responseLength:144129;
+mar 16, 2015 8:30:53 PM Log logGetRequest
+INFO: status:200; requestTime:222; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?rain responseLength:144129;
+mar 16, 2015 8:30:53 PM Log logGetRequest
+INFO: status:200; requestTime:1765; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?belles responseLength:144129;
+mar 16, 2015 8:30:54 PM Log logGetRequest
+INFO: status:200; requestTime:278; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?funiculitis responseLength:144129;
+mar 16, 2015 8:30:54 PM Log logGetRequest
+INFO: status:200; requestTime:244; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?gallstone responseLength:144129;
+mar 16, 2015 8:30:54 PM Log logGetRequest
+INFO: status:200; requestTime:297; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?disorganization responseLength:144129;
+mar 16, 2015 8:30:54 PM Log logGetRequest
+INFO: status:200; requestTime:180; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?car responseLength:144129;
+mar 16, 2015 8:30:54 PM Log logGetRequest
+INFO: status:200; requestTime:244; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?spot responseLength:144129;
+mar 16, 2015 8:30:55 PM Log logGetRequest
+INFO: status:200; requestTime:265; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?sweeney responseLength:144129;
+mar 16, 2015 8:30:55 PM Log logGetRequest
+INFO: status:200; requestTime:186; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?rattlesnake responseLength:144129;
+mar 16, 2015 8:30:55 PM Log logGetRequest
+INFO: status:200; requestTime:107; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?trimox responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:207; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?tortricidae responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:544; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:293; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?family responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:276; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?carbonated responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:588; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?poor responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:345; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?nyctaginia responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:276; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?laughing responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:607; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?blister responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:622; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?cirque responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:970; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?eupatorium responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:180; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?tuille responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:146; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?mountain responseLength:144129;
+mar 16, 2015 8:30:56 PM Log logGetRequest
+INFO: status:200; requestTime:163; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?breaking responseLength:144129;
+mar 16, 2015 8:30:57 PM Log logGetRequest
+INFO: status:200; requestTime:86; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?great responseLength:144129;
+mar 16, 2015 8:30:57 PM Log logGetRequest
+INFO: status:200; requestTime:143; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?momordica responseLength:144129;
+mar 16, 2015 8:30:57 PM Log logGetRequest
+INFO: status:200; requestTime:145; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?hillbilly responseLength:144129;
+mar 16, 2015 8:30:57 PM Log logGetRequest
+INFO: status:200; requestTime:171; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?backhand responseLength:144129;
+mar 16, 2015 8:30:58 PM Log logGetRequest
+INFO: status:200; requestTime:384; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?guinevere responseLength:144129;
+mar 16, 2015 8:30:58 PM Log logGetRequest
+INFO: status:200; requestTime:142; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?beech responseLength:144129;
+mar 16, 2015 8:30:58 PM Log logGetRequest
+INFO: status:200; requestTime:215; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?incendiarism responseLength:144129;
+mar 16, 2015 8:30:58 PM Log logGetRequest
+INFO: status:200; requestTime:174; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?lowan responseLength:144129;
+mar 16, 2015 8:30:58 PM Log logGetRequest
+INFO: status:200; requestTime:312; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?royal responseLength:144129;
+mar 16, 2015 8:30:58 PM Log logGetRequest
+INFO: status:200; requestTime:378; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?lucille responseLength:144129;
+mar 16, 2015 8:30:58 PM Log logGetRequest
+INFO: status:200; requestTime:250; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?electro responseLength:144129;
+mar 16, 2015 8:30:58 PM Log logGetRequest
+INFO: status:200; requestTime:1302; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?parol responseLength:144129;
+mar 16, 2015 8:30:58 PM Log logGetRequest
+INFO: status:200; requestTime:395; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?bitter responseLength:144129;
+mar 16, 2015 8:30:58 PM Log logGetRequest
+INFO: status:200; requestTime:311; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?inordinateness responseLength:144129;
+mar 16, 2015 8:30:58 PM Log logGetRequest
+INFO: status:200; requestTime:184; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?myopathy responseLength:144129;
+mar 16, 2015 8:30:59 PM Log logGetRequest
+INFO: status:200; requestTime:113; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?alpena responseLength:144129;
+mar 16, 2015 8:30:59 PM Log logGetRequest
+INFO: status:200; requestTime:175; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?park responseLength:144129;
+mar 16, 2015 8:30:59 PM Log logGetRequest
+INFO: status:200; requestTime:113; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?superfund responseLength:144129;
+mar 16, 2015 8:30:59 PM Log logGetRequest
+INFO: status:200; requestTime:112; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?endomycetales responseLength:144129;
+mar 16, 2015 8:30:59 PM Log logGetRequest
+INFO: status:200; requestTime:226; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?legislatorship responseLength:144129;
+mar 16, 2015 8:31:00 PM Log logGetRequest
+INFO: status:200; requestTime:221; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?homicide responseLength:144129;
+mar 16, 2015 8:31:01 PM Log logGetRequest
+INFO: status:200; requestTime:348; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?amorist responseLength:144129;
+mar 16, 2015 8:31:01 PM Log logGetRequest
+INFO: status:200; requestTime:433; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?gerontocracy responseLength:144129;
+mar 16, 2015 8:31:01 PM Log logGetRequest
+INFO: status:200; requestTime:340; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?substring responseLength:144129;
+mar 16, 2015 8:31:01 PM Log logGetRequest
+INFO: status:200; requestTime:584; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?genus responseLength:144129;
+mar 16, 2015 8:31:02 PM Log logGetRequest
+INFO: status:200; requestTime:240; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?participial responseLength:144129;
+mar 16, 2015 8:31:02 PM Log logGetRequest
+INFO: status:200; requestTime:440; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?gentile responseLength:144129;
+mar 16, 2015 8:31:02 PM Log logGetRequest
+INFO: status:200; requestTime:355; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?wiretapper responseLength:144129;
+mar 16, 2015 8:31:02 PM Log logGetRequest
+INFO: status:200; requestTime:872; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?seventy responseLength:144129;
+mar 16, 2015 8:31:02 PM Log logGetRequest
+INFO: status:200; requestTime:346; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?wheately responseLength:144129;
+mar 16, 2015 8:31:02 PM Log logGetRequest
+INFO: status:200; requestTime:184; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?leaf responseLength:144129;
+mar 16, 2015 8:31:02 PM Log logGetRequest
+INFO: status:200; requestTime:719; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?imidazole responseLength:144129;
+mar 16, 2015 8:31:02 PM Log logGetRequest
+INFO: status:200; requestTime:205; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?operating responseLength:144129;
+mar 16, 2015 8:31:02 PM Log logGetRequest
+INFO: status:200; requestTime:713; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?panicum responseLength:144129;
+mar 16, 2015 8:31:03 PM Log logGetRequest
+INFO: status:200; requestTime:651; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?geneticist responseLength:144129;
+mar 16, 2015 8:31:03 PM Log logGetRequest
+INFO: status:200; requestTime:327; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?sales responseLength:144129;
+mar 16, 2015 8:31:03 PM Log logGetRequest
+INFO: status:200; requestTime:853; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?quilted responseLength:144129;
+mar 16, 2015 8:31:03 PM Log logGetRequest
+INFO: status:200; requestTime:286; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?discontinuance responseLength:144129;
+mar 16, 2015 8:31:03 PM Log logGetRequest
+INFO: status:200; requestTime:318; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?geniality responseLength:144129;
+mar 16, 2015 8:31:03 PM Log logGetRequest
+INFO: status:200; requestTime:128; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?mandara responseLength:144129;
+mar 16, 2015 8:31:04 PM Log logGetRequest
+INFO: status:200; requestTime:252; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?family responseLength:144129;
+mar 16, 2015 8:31:04 PM Log logGetRequest
+INFO: status:200; requestTime:214; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?filing responseLength:144129;
+mar 16, 2015 8:31:04 PM Log logGetRequest
+INFO: status:200; requestTime:275; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?koto responseLength:144129;
+mar 16, 2015 8:31:05 PM Log logGetRequest
+INFO: status:200; requestTime:406; firstTimeSearch:false; URL:http://192.168.0.8:9200/my_river/_search?order responseLength:144129;
+mar 16, 2015 8:31:05 PM Log logGetRequest
+INFO: status:200; requestTime:225; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?ernst responseLength:144130;
+mar 16, 2015 8:31:05 PM Log logGetRequest
+INFO: status:200; requestTime:280; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?newspaper responseLength:144129;
+mar 16, 2015 8:31:05 PM Log logGetRequest
+INFO: status:200; requestTime:606; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?burgundy responseLength:144129;
+mar 16, 2015 8:31:05 PM Log logGetRequest
+INFO: status:200; requestTime:271; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?artificial responseLength:144129;
+mar 16, 2015 8:31:05 PM Log logGetRequest
+INFO: status:200; requestTime:300; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?robert responseLength:144129;
+mar 16, 2015 8:31:06 PM Log logGetRequest
+INFO: status:200; requestTime:576; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?chaise responseLength:144129;
+mar 16, 2015 8:31:06 PM Log logGetRequest
+INFO: status:200; requestTime:307; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?sachs responseLength:144129;
+mar 16, 2015 8:31:06 PM Log logGetRequest
+INFO: status:200; requestTime:586; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?bottlebrush responseLength:144129;
+mar 16, 2015 8:31:06 PM Log logGetRequest
+INFO: status:200; requestTime:473; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?cd8 responseLength:144129;
+mar 16, 2015 8:31:06 PM Log logGetRequest
+INFO: status:200; requestTime:604; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?female responseLength:144129;
+mar 16, 2015 8:31:06 PM Log logGetRequest
+INFO: status:200; requestTime:257; firstTimeSearch:true; URL:http://192.168.0.8:9200/my_river/_search?sobriquet responseLength:144129;

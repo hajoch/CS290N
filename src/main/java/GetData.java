@@ -1,7 +1,10 @@
 import org.apache.http.HttpResponse;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.impl.client.HttpClients;
+import org.apache.http.impl.conn.PoolingHttpClientConnectionManager;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -21,16 +24,15 @@ public class GetData implements Runnable {
     @Override
     public void run() {
         ApacheHttpGet.threadCount.incrementAndGet();
+
         System.out.println("Thread count: "+ApacheHttpGet.threadCount.get());
         try {
-
-            DefaultHttpClient httpClient = new DefaultHttpClient();
             HttpGet getRequest = new HttpGet(
                     url);
             getRequest.addHeader("accept", "application/json");
 
             long startTime = System.nanoTime();
-            HttpResponse response = httpClient.execute(getRequest);
+            HttpResponse response = HttpClientPool.getClient().execute(getRequest);
             long endTime = System.nanoTime();
             int responseTime = (int) ((endTime - startTime)/1000000);  //divide by 1000000 to get milliseconds.
 
@@ -48,7 +50,6 @@ public class GetData implements Runnable {
             }
             br.close();
             Log.getInstance().logGetRequest(url, response.getStatusLine().getStatusCode(), responseTime, output.length());
-            httpClient.getConnectionManager().shutdown();
 
         } catch (Exception e) {
             e.printStackTrace();

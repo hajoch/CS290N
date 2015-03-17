@@ -61,7 +61,7 @@ public class Log {
         }
         if (logged200ResponseCount%ApacheHttpGet.OVERVIEW_LOG_INTERVAL == 0 || logged200ResponseCount == 0){
             overviewLogger.info("Response count:" + loggedResponseCount + "; Response count (200ok):" + logged200ResponseCount+
-                    "; Average response time(200ok):" + getAverageResponseTime()+ "; Average response time(200ok) new terms:" + getAverageResponseTimeNewTerms());
+                    "; Response count new term: "+logged200ResponseCountNewTerm+"; Average response time(200ok):" + getAverageResponseTime()+ "; Average response time(200ok) new terms:" + getAverageResponseTimeNewTerms());
         }
 
     }

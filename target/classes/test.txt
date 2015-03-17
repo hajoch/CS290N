@@ -1,9 +1,0 @@
-aloys_senefelder n 1 1 @ 1 0 11292662
-alp n 1 1 @ 1 0 09193705
-alpaca n 3 2 @ #m 3 0 15104598 02698473 02438272
-alpena n 1 2 @ #p 1 0 09100080
-alpenstock n 1 2 @ %p 1 0 02698634
-alpha n 2 3 @ #m + 2 1 06834138 07329169
-alpha-adrenergic_blocker n 1 2 @ ~ 1 0 02698769
-alpha-adrenergic_blocking_agent n 1 2 @ ~ 1 0 02698769
-alpha-adrenergic_re
